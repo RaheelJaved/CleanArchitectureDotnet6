@@ -1,0 +1,1 @@
+https://rijsat.com/2022/03/14/clean-architecture-with-net-6/
